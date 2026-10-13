@@ -1,1 +1,2 @@
-# odin_recipes
+im asuka
+this is first ever project ever
